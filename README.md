@@ -15,7 +15,7 @@ Program creates a simple board game in console. User have two modes:
 
 ## Metaprogramming - Fibbonacci numbers (C++)
 
-Library makes simple language and interpreter with Fibbonacci numbers as literals, using metaprogramming in C++
+Library makes simple language and interpreter with Fibbonacci numbers as literals, using metaprogramming in C++ (use Clang to compile)
 
 
 ## Implicit Treap - Algorythmic task (C++)
