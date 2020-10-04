@@ -1,0 +1,28 @@
+/**
+@mainpage Dokumentacja zadania gamma
+
+### Opis programu
+
+Implementacja dużego zadania IPP(rok 2020): Gamma - By Damian Chańko dc394127
+
+Program pozwala stworzyć grę i wykonywać na niej różne operacje,
+głównie dotyczące ruchów.
+
+Większość operacji zwraca wartość informującą o powodzeniu (lub nie) zadania.
+
+Wykorzystuje się dodadtkowe biblioteki: 
+
+-matrix (tworząca macierz i wykonując na niej operacje)
+
+-player (do przechowywania informacji o graczach)
+
+-Words  (implementacja mojego stringa rozszerzona o dodatkowe operacje)
+
+-list	(lista dwukierunkowa trzymająca stringi)
+
+-single	(Struktura symulująca działanie template w celu tworzenia struktur danych)
+
+Oraz biblioteki operujące wejście w dwóch trybach, tj. wsadowy oraz interaktywny.
+(game_status, game_io, game_inter)
+
+*/
