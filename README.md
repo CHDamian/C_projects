@@ -24,5 +24,6 @@ Program solves algorytmic problem using implicit treap structure. We put people 
 - Operation O: We turn the row from position x to y.
 - Operation ?: We check how many groups we can get from position x to y where two G people aren't next to each other
 
+*To be continued...*
 
 **Damian Chańko dc394127**
