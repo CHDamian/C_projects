@@ -1,6 +1,7 @@
-## Codes written for Uniwersytet Warszawski
-## Copyright © 2020 by Damian Chańko
-## All rights reserved
+Codes written for Uniwersytet Warszawski
+Copyright © 2020 by Damian Chańko
+All rights reserved
+
 
 # C and C++ projects
 Here you can look at some of my projects written in C or C++ 
