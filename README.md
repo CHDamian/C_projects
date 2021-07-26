@@ -34,6 +34,13 @@ Program solves algorytmic problem using implicit treap structure. We put people 
 
 Library simulates 2D coordinate system with points, vectors and rectangles.
 
+## Exception handling - Function_maxima (C++)
+
+Class simulates a mathematical function with certain maxima. Project shows correct exception handling that there will never be a weak situation (in case of exception throwing object is the same as it was before calling the function).
+
+## SOLID principles - Assembly simulation (C++)
+
+Library to simulate assembly using object-oriented programming with SOLID principles.
 
 *To be continued...*
 
